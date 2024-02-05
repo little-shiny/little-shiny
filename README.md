@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @little-shiny
+- 👀 I’m new at coding
+- 🌱 Learning JS
+- 💞️ Industrial Design Engeneer
